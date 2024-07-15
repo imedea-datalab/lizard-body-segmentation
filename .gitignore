@@ -1,0 +1,7 @@
+yolo*.pt
+body-segmentation-2/
+config/config.py
+images_with_errors
+runs/
+__pycache__/
+model_utils/
